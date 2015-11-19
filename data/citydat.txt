@@ -1,0 +1,7 @@
+6
+0  AN    ANAHEIM             1273000    310
+1  BK    BAKERSFIELD           31100    390
+2  BO    BOSSTOWN                790     10
+3  BR    BREA_CANYON          529000   1242 
+4  CH    CHINO_HILLS           52200   1381
+5  WW	 Wrightwood             4525   5935
